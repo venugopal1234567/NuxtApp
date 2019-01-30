@@ -1,3 +1,14 @@
-# Authenticated Routes with Nuxt.js
+# Authenticated Routes 
 
-https://nuxtjs.org/examples/auth-routes
+To run 
+yarn add
+
+
+To go to signup page 
+http://localhost:3000/signup
+
+for Google login page 
+http://localhost:3000/auth/google
+
+
+
